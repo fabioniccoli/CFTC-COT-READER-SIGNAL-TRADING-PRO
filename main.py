@@ -80,7 +80,7 @@ TRANSLATIONS = {
         'disclaimer_title': 'WARNING / RISK DISCLAIMER!!',
         'disclaimer_body': 'CFDs and Options are complex instruments with a high risk of losing money rapidly due to leverage. 74% of retail investor accounts lose money when trading CFDs. You should consider whether you can afford to take the high risk of losing your money. This application simply simplifies the reading of public CFTC report data from https://www.cftc.gov/dea/newcot/deafut.txt and provides chart viewing via barchart.com. It is by no means a trading signal bot or financial advice. We are in no way responsible for any financial losses incurred.',
         'expired_title': '⚠️ 60-DAY TRIAL PERIOD EXPIRED',
-        'expired_subtitle': 'We hope the automated CFTC COT analysis was useful to you!\nThe commercial PRO version will be available very soon. You won't have to pay ANYTHING right now; it’s simply a reservation. You will make the payment later via the Google Store once you receive the link to download the PRO version.',
+        'expired_subtitle': 'We hope the automated CFTC COT analysis was useful to you!\nThe commercial PRO version will be available very soon. You won't have to pay ANYTHING right now, it’s simply a reservation. You will make the payment later via the Google Store once you receive the link to download the PRO version.',
         'expired_box_title': 'LIFETIME PRE-LAUNCH OFFER',
         'expired_box_sub': 'One-time purchase price FOR LIFE!:',
         'expired_price': 'ONLY €9.00',
