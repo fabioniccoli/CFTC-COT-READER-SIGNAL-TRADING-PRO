@@ -48,7 +48,8 @@ TRANSLATIONS = {
         )
     },
     "English": {
-        "title": "CFTC COT Analyzer-NO Commercial Group",
+        "title": "CFTC COT Analyzer",
+        "title1": "NO Commercial Group",
         "btn_ready": "Start Analysis",
         "btn_charts": "Open Barchart COT",
         "status_ready": "Ready for analysis",
@@ -86,7 +87,8 @@ TRANSLATIONS = {
         )
     },
     "Español": {
-        "title": "CFTC COT Analyzer-NO Commercial Group",
+        "title": "CFTC COT Analyzer",
+        "title1": "NO Commercial Group",
         "btn_ready": "Iniciar Análisis",
         "btn_charts": "Abrir Barchart COT",
         "status_ready": "Listo para el análisis",
@@ -123,7 +125,8 @@ TRANSLATIONS = {
         )
     },
     "Deutsch": {
-        "title": "CFTC COT Analyzer-NO Commercial Group",
+        "title": "CFTC COT Analyzer",
+        "title1": "NO Commercial Group",
         "btn_ready": "Analyse Starten",
         "btn_charts": "Barchart COT Öffnen",
         "status_ready": "Bereit für die Analyse",
@@ -160,7 +163,8 @@ TRANSLATIONS = {
         )
     },
     "Français": {
-        "title": "CFTC COT Analyzer-NO Commercial Group",
+        "title": "CFTC COT Analyzer",
+        "title1": "NO Commercial Group",
         "btn_ready": "Lancer l'analyse",
         "btn_charts": "Ouvrir Barchart COT",
         "status_ready": "Prêt pour l'analyse",
