@@ -1,6 +1,6 @@
 app:
-  name: "CFTC COT Analyzer"
-  description: "CFTC COT Analysis Tool"
+  name: "CFTC COT Analyzer-pro"
+  description: "CFTC COT Analysis Tool-pro"
   include_packages:
     - flet==0.28.3
   assets: assets
